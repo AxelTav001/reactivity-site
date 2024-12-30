@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Axel\\Documents\\Cursos\\Sites\\Reactivities\\API\\API.csproj": {}
+    "C:\\Users\\Axel\\Documents\\Cursos\\Sites\\Reactivities\\api\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Axel\\Documents\\Cursos\\Sites\\Reactivities\\API\\API.csproj": {
+    "C:\\Users\\Axel\\Documents\\Cursos\\Sites\\Reactivities\\api\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Axel\\Documents\\Cursos\\Sites\\Reactivities\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\Axel\\Documents\\Cursos\\Sites\\Reactivities\\api\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\Axel\\Documents\\Cursos\\Sites\\Reactivities\\API\\API.csproj",
+        "projectPath": "C:\\Users\\Axel\\Documents\\Cursos\\Sites\\Reactivities\\api\\API.csproj",
         "packagesPath": "C:\\Users\\Axel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Axel\\Documents\\Cursos\\Sites\\Reactivities\\API\\obj\\",
+        "outputPath": "C:\\Users\\Axel\\Documents\\Cursos\\Sites\\Reactivities\\api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Axel\\AppData\\Roaming\\NuGet\\NuGet.Config"
